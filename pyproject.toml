@@ -1,0 +1,16 @@
+[project]
+name = "fresh-audit"
+version = "0.2.0"
+description = "FreshAudit - Inventory Quality & Cycle Counting System"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bcrypt>=4.2.0",
+    "fastapi[standard]>=0.138.2",
+    "podman-compose>=1.6.0",
+    "psycopg2-binary>=2.9.12",
+    "pyjwt>=2.10.0",
+    "pydantic>=2.10.0",
+    "sqlalchemy>=2.0.51",
+    "uvicorn>=0.49.0",
+]
