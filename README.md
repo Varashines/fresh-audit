@@ -64,7 +64,7 @@ This starts PostgreSQL and the backend (which also serves the frontend) in conta
 
 ```bash
 # Clone and setup
-git clone https://github.com/<your-username>/fresh-audit.git
+git clone git@github.com:Varashines/fresh-audit.git
 cd fresh-audit
 
 # Create virtual environment
