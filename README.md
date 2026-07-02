@@ -46,7 +46,7 @@ fresh-audit/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/fresh-audit.git
+git clone git@github.com:Varashines/fresh-audit.git
 cd fresh-audit
 
 # Start everything
